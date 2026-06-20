@@ -846,4 +846,5 @@ stats.probplot(residual, dist='norm', plot=pylab)
     
 ![png](LinearRegressionPredictions_files/LinearRegressionPredictions_32_1.png)
     
-
+### Conclusion : Residuals follows normal distribution means predictions are acceptibles
+###              Model Accurately predicted thecustomer spendings for testing data 
